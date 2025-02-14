@@ -222,8 +222,8 @@ nav a:hover {
 /*----------------------------------------------*/
 /*card and item-in-class size*/
 .card-1-b,.card-2-b,.card-3-b{
-    width: 387;
-    height: 272;
+    width: 387; 
+    height: 272; 
     border-radius: 24px;
     padding: 28px;
     gap: 40px;
@@ -356,7 +356,8 @@ footer {
 .footer-navbar-p {
     font-weight: bold;
     text-decoration: none;
-    color: #1A1A2C; 
+    color: #1A1A2C;
+    background-color: #F6F6FB; 
 }
 
 .footer-navbar-p:hover {
