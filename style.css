@@ -336,29 +336,59 @@ nav a:hover {
 
 .box-container-getintouch-p {
     display: flex;
-    height: 500;
-    width: vw;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: none ;
+    border-radius: 8px;
+    height: 300px;
     margin: 0 300px;
-    background-color: #fffff;
+    background-color: white;
+    
+}
+
+.box-input-p {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+}
+
+.getintouch-input-p,
+.getintouch-input-message-p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: white;
+    border: none ;
+    border-radius: 8px;
+    padding: 12px 24px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.getintouch-input-message-p {
+    height: ;
 }
 
 
-
-
-
-
-
-
-
-
-
-
+.getintouch-button-p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: #1A1A2C;
+    padding: 12px 24px;
+    border: none ;
+    border-radius: 8px;
+}
 
 .box-container-footer-navbar-p {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
+    padding: 20px 0;
     margin: 0 300px;
 }
 
@@ -371,4 +401,9 @@ nav a:hover {
     font-weight: bold;
     text-decoration: none;
     color: #1A1A2C; 
+}
+
+.footer-navbar-p:hover {
+      color: #5E44FF;
+      text-decoration: underline;
 }
