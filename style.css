@@ -1,1 +1,238 @@
-/* Start coding here */
+* {    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;    
+    background-color: #F6F6FB;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.box-container-getintouch-p {
+    display: flex;
+    height: 500;
+    width: vw;
+    margin: 0 300px;
+    background-color: #fffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.box-container-footer-navbar-p {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin: 0 300px;
+}
+
+.footer-navbar-box-p {
+    display: flex;
+    gap: 20px;
+}
+
+.footer-navbar-p {
+    font-weight: bold;
+    text-decoration: none;
+    color: #1A1A2C; 
+}
