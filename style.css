@@ -180,41 +180,15 @@ nav a:hover {
     ;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*  */
-.Feature_Section-b{
+/* .Feature_Section-b{
     height: 968px;
     width: 100vw;
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-}
+} */
 /* box card */
 .layout-b{
     display: flex;
@@ -275,9 +249,8 @@ height: 72;
 }
 /*----------------------------------------------*/
 .Feature_Section-b{
-    height:968px;
+    height: 484px;
     /* background-color: aqua; */
-    width: 100vw;
     display: flex;
     flex-direction: row;
     justify-content: center;
