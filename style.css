@@ -104,6 +104,9 @@ nav a:hover {
 
 .product-h {
     color: #5E44FF;
+    font-family: Arial, Helvetica, sans-serif;    
+    background-color: #F6F6FB;
+    
 }
 
 .inside-hero-box-h h3 {
@@ -139,4 +142,353 @@ nav a:hover {
     background-color: #35354D;
     border: 4px solid #5F5F76
     ;
+}
+
+
+.inside-hero-box-h h3 {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.button-free-trial-h {
+    width: 187;
+    height: 56;
+    border-radius: 16px;
+    gap: 6px;
+    padding-top: 16px;
+    padding-right: 36px;
+    padding-bottom: 16px;
+    padding-left: 36px;
+    background-color: #1A1A2C;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color: white;
+}
+
+.button-free-trial-h:hover {
+    background-color: #5F5F76;
+}
+
+.button-free-trial-h:active {
+    background-color: #35354D;
+    border: 4px solid #5F5F76
+    ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    width: 100vw;
+}
+.box-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.getintouch-p{
+    font-size: 48px;
+}
+
+.box-container-getintouch-p {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border: none ;
+    border-radius: 12px;
+    height: 666px;
+    width: 1199px;
+    padding: 50px;
+    background-color: white;
+    
+}
+
+.box-input-p {
+    font-size: 24px;
+    color: #5f5f76;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    gap: 20px;
+    
+}
+
+.getintouch-input-p,
+.getintouch-input-message-p {
+    display: flex;
+    color: white;
+    background-color: white;
+    border-radius: 12px;
+    border-color: #E0E0ED;
+    height: 48px;
+    width: 589px;
+    font-size: 24px;
+    padding: 0 20px;
+}
+
+
+
+.getintouch-input-message-p {
+    display: flex;
+    justify-content: flex-start;
+    height: 102px;
+    padding: 0 0 50px 20px;
+}
+
+
+.getintouch-button-p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: #1A1A2C;
+    height: 56px;
+    width: 589px;
+    border: none ;
+    border-radius: 12px;
+    font-size: 24px;
+}
+
+.getintouch-button-p:hover {
+    background-color: #5F5F76;
+}
+
+.box-container-footer-navbar-p {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1199px;
+    height: 24px;
+    gap: 37px;
+    margin: 100px 0;
+    font-size: 24px;
+    background-color: #f6f6fb;
+}
+
+.footer-navbar-box-p {
+    display: flex;
+    gap: 20px;
+}
+
+.footer-navbar-p {
+    font-weight: bold;
+    text-decoration: none;
+    color: #1A1A2C; 
+}
+
+.footer-navbar-p:hover {
+      color: #5E44FF;
+      text-decoration: underline;
 }
