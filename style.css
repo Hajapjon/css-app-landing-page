@@ -222,8 +222,8 @@ nav a:hover {
 /*----------------------------------------------*/
 /*card and item-in-class size*/
 .card-1-b,.card-2-b,.card-3-b{
-    width: 387; 
-    height: 272; 
+    width: 387px; 
+    height: 272px; 
     border-radius: 24px;
     padding: 28px;
     gap: 40px;
@@ -233,18 +233,13 @@ nav a:hover {
 /*----------------------------------------------*/
 /* text size*/
 .topic-1-b,.topic-2-b,.topic-3-b{
-    width: 331;
-height: 32;
+    width: 331px;
+height: 32px;
 }
-.p-in-class-1-b,.p-in-class-2-b,.p-in-class-3-b{
-    width: 331;
-height: 72;
-}
+
 .box-text-1-b,.box-text-2-b,.box-text-3-b{
     display: flex;
     flex-direction: column;
-    width: 387;
-    height: 116;
     gap: 12px;
 }
 /*----------------------------------------------*/
